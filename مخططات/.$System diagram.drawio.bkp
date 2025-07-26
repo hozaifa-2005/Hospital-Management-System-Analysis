@@ -1,0 +1,311 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/25.0.1 Chrome/128.0.6613.186 Electron/32.2.6 Safari/537.36" version="25.0.1">
+  <diagram name="Page-1" id="oEUy1DEARkfJn71gl4QQ">
+    <mxGraphModel dx="926" dy="560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cKUi2s86rgT73LPQN1W4-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="cKUi2s86rgT73LPQN1W4-1" target="cKUi2s86rgT73LPQN1W4-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4jlpgEPcY52-hxKFDmjY-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="cKUi2s86rgT73LPQN1W4-1" target="cKUi2s86rgT73LPQN1W4-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cKUi2s86rgT73LPQN1W4-1" value="&lt;b style=&quot;line-height: 220%;&quot;&gt;إداراة مستفشى&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
+          <mxGeometry x="510" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cKUi2s86rgT73LPQN1W4-2" value="قسم المريض" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
+          <mxGeometry x="510" y="90" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cKUi2s86rgT73LPQN1W4-3" value="قسم الموظفين" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
+          <mxGeometry x="290" y="90" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cKUi2s86rgT73LPQN1W4-4" value="قسم المدير" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" parent="1" vertex="1">
+          <mxGeometry x="660" y="90" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cKUi2s86rgT73LPQN1W4-12" value="&lt;div&gt;إدارة الأقسام الطبية&lt;br&gt;&lt;/div&gt;" style="rounded=1;fillColor=#bac8d3;strokeColor=#23445d;verticalAlign=middle;align=center;spacingRight=0;spacingBottom=0;spacing=2;labelBackgroundColor=none;fontColor=default;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="675" y="160" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cKUi2s86rgT73LPQN1W4-13" value="إدارة حسابات الموظفين" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
+          <mxGeometry x="675" y="190" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cKUi2s86rgT73LPQN1W4-14" value="إدارة حسابات&lt;div&gt;&amp;nbsp;المرضى&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
+          <mxGeometry x="675" y="220" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cKUi2s86rgT73LPQN1W4-22" value="&amp;nbsp;مواعيد الحجز" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
+          <mxGeometry x="525" y="160" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cKUi2s86rgT73LPQN1W4-23" value="الاطلاع على السجل الطبي" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
+          <mxGeometry x="525" y="190" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cKUi2s86rgT73LPQN1W4-24" value="الوصول إلى التقارير الطبية" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
+          <mxGeometry x="525" y="220" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cKUi2s86rgT73LPQN1W4-26" value="الملف الشخصي" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
+          <mxGeometry x="525" y="250" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cKUi2s86rgT73LPQN1W4-34" value="" style="endArrow=none;html=1;rounded=0;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="190" as="sourcePoint" />
+            <mxPoint x="719.75" y="190" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="719.75" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RN_IKHzcrK0DPIggvNhB-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="cKUi2s86rgT73LPQN1W4-13" target="cKUi2s86rgT73LPQN1W4-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RN_IKHzcrK0DPIggvNhB-10" value="إدارة الصيدلية" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
+          <mxGeometry x="675" y="310" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RN_IKHzcrK0DPIggvNhB-13" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="cKUi2s86rgT73LPQN1W4-22" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="190" as="sourcePoint" />
+            <mxPoint x="570" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RN_IKHzcrK0DPIggvNhB-20" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="cKUi2s86rgT73LPQN1W4-12" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="670" y="190" as="sourcePoint" />
+            <mxPoint x="720" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rC8pWTbFSoEOwvuvXqlR-1" value="استشارة الطبيب" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
+          <mxGeometry x="525" y="280" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rC8pWTbFSoEOwvuvXqlR-3" value="الأطباء" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
+          <mxGeometry x="525" y="310" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rC8pWTbFSoEOwvuvXqlR-5" value="إدارة صلاحيات الوصول" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
+          <mxGeometry x="675" y="250" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rC8pWTbFSoEOwvuvXqlR-7" value="التقارير والإحصائيات" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
+          <mxGeometry x="675" y="280" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4jlpgEPcY52-hxKFDmjY-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="cKUi2s86rgT73LPQN1W4-1" target="cKUi2s86rgT73LPQN1W4-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="570" y="260" as="sourcePoint" />
+            <mxPoint x="620" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4jlpgEPcY52-hxKFDmjY-19" value="الاستقبال" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
+          <mxGeometry x="280" y="170" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4jlpgEPcY52-hxKFDmjY-20" value="فني العمليات" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
+          <mxGeometry x="360" y="170" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4jlpgEPcY52-hxKFDmjY-29" value="ممرض الجناح" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
+          <mxGeometry x="200" y="170" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4jlpgEPcY52-hxKFDmjY-32" value="المختبر" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
+          <mxGeometry x="675" y="340" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4jlpgEPcY52-hxKFDmjY-33" value="إدارة الغرف والأسرة" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
+          <mxGeometry x="675" y="430" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4jlpgEPcY52-hxKFDmjY-34" value="إدارة المخزون والأصول" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
+          <mxGeometry x="675" y="460" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4jlpgEPcY52-hxKFDmjY-35" value="إدارة بنك الدم" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
+          <mxGeometry x="675" y="490" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4jlpgEPcY52-hxKFDmjY-36" value="الملاحظات والشكاوى" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
+          <mxGeometry x="675" y="520" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4jlpgEPcY52-hxKFDmjY-40" value="الأشعة" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
+          <mxGeometry x="675" y="370" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4jlpgEPcY52-hxKFDmjY-41" value="الفواتير" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
+          <mxGeometry x="675" y="400" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4jlpgEPcY52-hxKFDmjY-42" value="الخدمات" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
+          <mxGeometry x="675" y="550" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4jlpgEPcY52-hxKFDmjY-52" value="تشخيص المرضى وتحديد العلاج" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="445" y="230" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4jlpgEPcY52-hxKFDmjY-53" value="إجراء العمليات الجراحية" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="445" y="260" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4jlpgEPcY52-hxKFDmjY-54" value="كتابة الوصفات الطبية" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="445" y="290" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4jlpgEPcY52-hxKFDmjY-55" value="تحديث السجلات الطبية" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="445" y="320" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4jlpgEPcY52-hxKFDmjY-62" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="160" as="sourcePoint" />
+            <mxPoint x="480" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4jlpgEPcY52-hxKFDmjY-66" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="170" as="sourcePoint" />
+            <mxPoint x="480" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4jlpgEPcY52-hxKFDmjY-70" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="170" as="sourcePoint" />
+            <mxPoint x="320" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4jlpgEPcY52-hxKFDmjY-71" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="4jlpgEPcY52-hxKFDmjY-20" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="210" as="sourcePoint" />
+            <mxPoint x="400" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4jlpgEPcY52-hxKFDmjY-72" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="cKUi2s86rgT73LPQN1W4-3" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="200" as="sourcePoint" />
+            <mxPoint x="350" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4jlpgEPcY52-hxKFDmjY-74" value="الطبيب" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
+          <mxGeometry x="440" y="170" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4jlpgEPcY52-hxKFDmjY-79" value="إجراء الفحوصات المخبرية" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="45" y="260" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4jlpgEPcY52-hxKFDmjY-80" value="رفع التقارير للطبيب المعالج" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="45" y="290" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4jlpgEPcY52-hxKFDmjY-83" value="الاطلاع على طلبات الأشعة" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="125" y="230" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4jlpgEPcY52-hxKFDmjY-84" value="إجراء فحوصات الأشعة" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="125" y="260" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4jlpgEPcY52-hxKFDmjY-90" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="4jlpgEPcY52-hxKFDmjY-52" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="260" as="sourcePoint" />
+            <mxPoint x="480" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4jlpgEPcY52-hxKFDmjY-91" value="لغات النظام" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1">
+          <mxGeometry x="225" y="392.5" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4jlpgEPcY52-hxKFDmjY-95" value="إنجليزي" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
+          <mxGeometry x="125" y="457.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4jlpgEPcY52-hxKFDmjY-96" value="عربي" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
+          <mxGeometry x="300" y="457.5" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4jlpgEPcY52-hxKFDmjY-98" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.542;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="4jlpgEPcY52-hxKFDmjY-91" target="4jlpgEPcY52-hxKFDmjY-96" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="462.5" as="sourcePoint" />
+            <mxPoint x="410" y="462.5" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4jlpgEPcY52-hxKFDmjY-100" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.455;entryY=0.038;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="4jlpgEPcY52-hxKFDmjY-91" target="4jlpgEPcY52-hxKFDmjY-95" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="502.5" as="sourcePoint" />
+            <mxPoint x="160" y="452.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0znyNSBy0nTOqNC2vZ0c-1" value="فني أشعة" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
+          <mxGeometry x="120" y="170" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0znyNSBy0nTOqNC2vZ0c-2" value="فني مخبري" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
+          <mxGeometry x="40" y="170" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0znyNSBy0nTOqNC2vZ0c-7" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="4jlpgEPcY52-hxKFDmjY-83" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="260" as="sourcePoint" />
+            <mxPoint x="160" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0znyNSBy0nTOqNC2vZ0c-8" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;طلب تحاليل مخبرية أو إجراءات شعاعية&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="445" y="350" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0znyNSBy0nTOqNC2vZ0c-9" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;الإطلاع على نتائج الفحوصات&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="445" y="380" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0znyNSBy0nTOqNC2vZ0c-10" value="تسجيل بيانات المريض" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="285" y="230" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0znyNSBy0nTOqNC2vZ0c-11" value="إصدار بطاقة المريض" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="285" y="260" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0znyNSBy0nTOqNC2vZ0c-12" value="جدولة المواعيد مع الأطباء" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="285" y="290" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0znyNSBy0nTOqNC2vZ0c-13" value="إدارة قائمة الانتظار اليومية" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="285" y="320" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0znyNSBy0nTOqNC2vZ0c-14" value="استلام طلبات التحاليل" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="45" y="230" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0znyNSBy0nTOqNC2vZ0c-15" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="0znyNSBy0nTOqNC2vZ0c-14" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="30" y="260" as="sourcePoint" />
+            <mxPoint x="80" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0znyNSBy0nTOqNC2vZ0c-16" value="رفع الصور والتقارير للطبيب" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="125" y="290" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0znyNSBy0nTOqNC2vZ0c-19" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="239.91" y="230" as="sourcePoint" />
+            <mxPoint x="239.91" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0znyNSBy0nTOqNC2vZ0c-20" value="إعطاء اللزوم" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="205" y="230" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0znyNSBy0nTOqNC2vZ0c-21" value="تنفيذ الإجراءات اللازمة" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="205" y="260" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0znyNSBy0nTOqNC2vZ0c-22" value="كتابة الملاحظات التمريضية" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;strokeWidth=1;" parent="1" vertex="1">
+          <mxGeometry x="205" y="290" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0znyNSBy0nTOqNC2vZ0c-23" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="319.9" y="230" as="sourcePoint" />
+            <mxPoint x="319.9" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0znyNSBy0nTOqNC2vZ0c-26" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="239.87" y="170" as="sourcePoint" />
+            <mxPoint x="239.87" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0znyNSBy0nTOqNC2vZ0c-28" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="159.87" y="170" as="sourcePoint" />
+            <mxPoint x="159.87" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0znyNSBy0nTOqNC2vZ0c-30" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="79.87" y="170" as="sourcePoint" />
+            <mxPoint x="79.87" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2OF8xzhlZMSvl0guk0YB-1" value="عرض جدول العمليات" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="230" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2OF8xzhlZMSvl0guk0YB-2" value="تسجيل الأدوات المستخدمة" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="260" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2OF8xzhlZMSvl0guk0YB-3" value="رفع تقرير العملية" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="290" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2OF8xzhlZMSvl0guk0YB-4" value="تأكيد تجهيز الغرفة" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="320" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2OF8xzhlZMSvl0guk0YB-5" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="399.84" y="230" as="sourcePoint" />
+            <mxPoint x="399.84" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

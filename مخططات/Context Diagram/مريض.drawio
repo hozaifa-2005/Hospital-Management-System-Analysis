@@ -1,0 +1,70 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/25.0.1 Chrome/128.0.6613.186 Electron/32.2.6 Safari/537.36" version="25.0.1">
+  <diagram name="Page-1" id="JKNUVQAxmP9uTkI03yyg">
+    <mxGraphModel dx="665" dy="396" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XaIL9JHg4FneOxSuvQ2j-3" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;المريض&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="590" y="130" width="100" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="XaIL9JHg4FneOxSuvQ2j-4" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;نظام&amp;nbsp;&lt;br&gt;إدراة&amp;nbsp;&lt;br&gt;مشفى&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="290" y="130" width="100" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="XaIL9JHg4FneOxSuvQ2j-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.009;exitY=0.121;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="XaIL9JHg4FneOxSuvQ2j-3" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="240" as="sourcePoint" />
+            <mxPoint x="390" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XaIL9JHg4FneOxSuvQ2j-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.009;exitY=0.121;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="589" y="190" as="sourcePoint" />
+            <mxPoint x="390" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XaIL9JHg4FneOxSuvQ2j-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.009;exitY=0.121;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="589" y="220" as="sourcePoint" />
+            <mxPoint x="390" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XaIL9JHg4FneOxSuvQ2j-14" value="بيانات المريض" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="450" y="138" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XaIL9JHg4FneOxSuvQ2j-15" value="&amp;nbsp;تسجيل الدخول" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="450" y="168" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XaIL9JHg4FneOxSuvQ2j-17" value="إدارة المواعيد" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="450" y="198" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XaIL9JHg4FneOxSuvQ2j-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.997;exitY=0.521;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.008;entryY=0.522;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="389.99999999999994" y="290" as="sourcePoint" />
+            <mxPoint x="591.0999999999999" y="290.25000000000006" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XaIL9JHg4FneOxSuvQ2j-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.997;exitY=0.521;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="389.99999999999994" y="350" as="sourcePoint" />
+            <mxPoint x="590" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XaIL9JHg4FneOxSuvQ2j-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.997;exitY=0.521;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.008;entryY=0.522;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="388.8999999999999" y="320" as="sourcePoint" />
+            <mxPoint x="590" y="320.25000000000006" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XaIL9JHg4FneOxSuvQ2j-30" value="جدول المواعيد" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="450" y="268" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XaIL9JHg4FneOxSuvQ2j-33" value="التاريخ والسجل الطبي" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="435" y="328" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YXL2dS48PwzScGXmiHBj-2" value="إشعار بقبول الحجز" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="440" y="298" width="100" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
