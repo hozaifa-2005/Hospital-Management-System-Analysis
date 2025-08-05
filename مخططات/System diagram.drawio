@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/25.0.1 Chrome/128.0.6613.186 Electron/32.2.6 Safari/537.36" version="25.0.1">
   <diagram name="Page-1" id="oEUy1DEARkfJn71gl4QQ">
-    <mxGraphModel dx="785" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1016" dy="605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -154,7 +154,7 @@
         <mxCell id="4jlpgEPcY52-hxKFDmjY-74" value="الطبيب" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
           <mxGeometry x="440" y="170" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4jlpgEPcY52-hxKFDmjY-79" value="إجراء الفحوصات المخبرية" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;strokeWidth=1;" parent="1" vertex="1">
+        <mxCell id="4jlpgEPcY52-hxKFDmjY-79" value="إدخال نتائج التحاليل" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="45" y="260" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4jlpgEPcY52-hxKFDmjY-80" value="رفع التقارير للطبيب المعالج" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;strokeWidth=1;" parent="1" vertex="1">
@@ -163,7 +163,7 @@
         <mxCell id="4jlpgEPcY52-hxKFDmjY-83" value="الاطلاع على طلبات الأشعة" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="125" y="230" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4jlpgEPcY52-hxKFDmjY-84" value="إجراء فحوصات الأشعة" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;strokeWidth=1;" parent="1" vertex="1">
+        <mxCell id="4jlpgEPcY52-hxKFDmjY-84" value="إدخال نتائج&lt;br&gt;الفحص" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="125" y="260" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4jlpgEPcY52-hxKFDmjY-90" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="4jlpgEPcY52-hxKFDmjY-52" edge="1">
@@ -212,16 +212,16 @@
         <mxCell id="0znyNSBy0nTOqNC2vZ0c-9" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;الإطلاع على نتائج الفحوصات&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="445" y="380" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0znyNSBy0nTOqNC2vZ0c-10" value="تسجيل بيانات المريض" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;strokeWidth=1;" parent="1" vertex="1">
+        <mxCell id="0znyNSBy0nTOqNC2vZ0c-10" value="إنشاء حساب المريض" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="285" y="230" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0znyNSBy0nTOqNC2vZ0c-11" value="إصدار بطاقة المريض" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;strokeWidth=1;" parent="1" vertex="1">
+        <mxCell id="0znyNSBy0nTOqNC2vZ0c-11" value="غرف المرضى" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="285" y="260" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0znyNSBy0nTOqNC2vZ0c-12" value="جدولة المواعيد مع الأطباء" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="285" y="290" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0znyNSBy0nTOqNC2vZ0c-13" value="إدارة قائمة الانتظار اليومية" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;strokeWidth=1;" parent="1" vertex="1">
+        <mxCell id="0znyNSBy0nTOqNC2vZ0c-13" value="تحديث بيانات&amp;nbsp;&lt;br&gt;المريض" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="285" y="320" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0znyNSBy0nTOqNC2vZ0c-14" value="استلام طلبات التحاليل" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;strokeWidth=1;" parent="1" vertex="1">
@@ -242,10 +242,10 @@
             <mxPoint x="239.91" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0znyNSBy0nTOqNC2vZ0c-20" value="إعطاء اللزوم" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;strokeWidth=1;" parent="1" vertex="1">
+        <mxCell id="0znyNSBy0nTOqNC2vZ0c-20" value="تسجيل التمريض&lt;br&gt;اليومي" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="205" y="230" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0znyNSBy0nTOqNC2vZ0c-21" value="تنفيذ الإجراءات اللازمة" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;strokeWidth=1;" parent="1" vertex="1">
+        <mxCell id="0znyNSBy0nTOqNC2vZ0c-21" value="طلبات الطبيب&lt;br&gt;للمريض" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="205" y="260" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0znyNSBy0nTOqNC2vZ0c-22" value="كتابة الملاحظات التمريضية" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;strokeWidth=1;" parent="1" vertex="1">

@@ -1,68 +1,113 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/25.0.1 Chrome/128.0.6613.186 Electron/32.2.6 Safari/537.36" version="25.0.1">
   <diagram name="Page-1" id="JKNUVQAxmP9uTkI03yyg">
-    <mxGraphModel dx="576" dy="344" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="508" dy="302" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="XaIL9JHg4FneOxSuvQ2j-3" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;موظف&lt;br&gt;الاستقبال&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="XaIL9JHg4FneOxSuvQ2j-3" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;موظف&lt;br&gt;الاستقبال&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="590" y="130" width="100" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="XaIL9JHg4FneOxSuvQ2j-4" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;نظام&amp;nbsp;&lt;br&gt;إدراة&amp;nbsp;&lt;br&gt;مشفى&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="XaIL9JHg4FneOxSuvQ2j-4" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;نظام&amp;nbsp;&lt;br&gt;إدراة&amp;nbsp;&lt;br&gt;مشفى&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="290" y="130" width="100" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="XaIL9JHg4FneOxSuvQ2j-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.009;exitY=0.121;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="XaIL9JHg4FneOxSuvQ2j-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.009;exitY=0.121;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="589.1" y="150.25" as="sourcePoint" />
             <mxPoint x="390" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XaIL9JHg4FneOxSuvQ2j-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.009;exitY=0.121;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="XaIL9JHg4FneOxSuvQ2j-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.009;exitY=0.121;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="589" y="180" as="sourcePoint" />
-            <mxPoint x="390" y="180" as="targetPoint" />
+            <mxPoint x="590" y="170" as="sourcePoint" />
+            <mxPoint x="391" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XaIL9JHg4FneOxSuvQ2j-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.009;exitY=0.121;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="XaIL9JHg4FneOxSuvQ2j-12" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.009;exitY=0.121;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="589" y="212.81" as="sourcePoint" />
-            <mxPoint x="390" y="212.81" as="targetPoint" />
+            <mxPoint x="590" y="190" as="sourcePoint" />
+            <mxPoint x="391" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XaIL9JHg4FneOxSuvQ2j-14" value="تسجيل الدخول" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="XaIL9JHg4FneOxSuvQ2j-14" value="تسجيل الدخول" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="450" y="130" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XaIL9JHg4FneOxSuvQ2j-15" value="تسجيل مرضى جدد" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="440" y="160" width="100" height="30" as="geometry" />
+        <mxCell id="XaIL9JHg4FneOxSuvQ2j-15" value="إنشاء حساب للمريض" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="435" y="150" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XaIL9JHg4FneOxSuvQ2j-17" value="حجز مواعيد" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="455" y="190" width="70" height="30" as="geometry" />
+        <mxCell id="XaIL9JHg4FneOxSuvQ2j-17" value="حجز مواعيد" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="455" y="170" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XaIL9JHg4FneOxSuvQ2j-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.997;exitY=0.521;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="XaIL9JHg4FneOxSuvQ2j-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.997;exitY=0.521;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="389.99999999999994" y="360" as="sourcePoint" />
             <mxPoint x="590" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XaIL9JHg4FneOxSuvQ2j-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.997;exitY=0.521;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.008;entryY=0.522;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="XaIL9JHg4FneOxSuvQ2j-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.997;exitY=0.521;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.008;entryY=0.522;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="388.8999999999999" y="328" as="sourcePoint" />
-            <mxPoint x="590" y="328.25000000000006" as="targetPoint" />
+            <mxPoint x="388.8999999999999" y="339.55" as="sourcePoint" />
+            <mxPoint x="590" y="339.80000000000007" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XaIL9JHg4FneOxSuvQ2j-33" value="نتائج استعلامات" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="XaIL9JHg4FneOxSuvQ2j-33" value="نتائج استعلامات" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="450" y="340" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XaIL9JHg4FneOxSuvQ2j-51" value="رسائل تأكيد&amp;nbsp; الموعد" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="440" y="278" width="100" height="30" as="geometry" />
+        <mxCell id="XaIL9JHg4FneOxSuvQ2j-51" value="رسائل تأكيد&amp;nbsp; الموعد" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="440" y="300" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XaIL9JHg4FneOxSuvQ2j-52" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.997;exitY=0.521;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.008;entryY=0.522;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="XaIL9JHg4FneOxSuvQ2j-52" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.997;exitY=0.521;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.008;entryY=0.522;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="388.8999999999999" y="320" as="sourcePoint" />
+            <mxPoint x="590" y="320.25000000000006" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XaIL9JHg4FneOxSuvQ2j-55" value="مواعيد المرضى الحالية" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="435" y="320" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="211thbQsoQ1P-G4-_ONW-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.009;exitY=0.121;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="210" as="sourcePoint" />
+            <mxPoint x="391" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="211thbQsoQ1P-G4-_ONW-3" value="تحديث بيانات المريض" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="435" y="190" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="211thbQsoQ1P-G4-_ONW-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.009;exitY=0.121;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="589" y="230" as="sourcePoint" />
+            <mxPoint x="390" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="211thbQsoQ1P-G4-_ONW-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.997;exitY=0.521;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.008;entryY=0.522;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="388.8999999999999" y="300" as="sourcePoint" />
             <mxPoint x="590" y="300.25000000000006" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XaIL9JHg4FneOxSuvQ2j-55" value="مواعيد المرضى الحالية" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="435" y="308" width="110" height="30" as="geometry" />
+        <mxCell id="211thbQsoQ1P-G4-_ONW-7" value="تقارير بسيطة عن إشغال الغرف" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="420" y="280" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="211thbQsoQ1P-G4-_ONW-8" value="طلب عرض حالة الغرف" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="430" y="210" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="211thbQsoQ1P-G4-_ONW-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.009;exitY=0.121;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="589" y="250" as="sourcePoint" />
+            <mxPoint x="390" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="211thbQsoQ1P-G4-_ONW-10" value="إسناد مريض لسرير" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="440" y="228" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="211thbQsoQ1P-G4-_ONW-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.997;exitY=0.521;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.008;entryY=0.522;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="389.99999999999994" y="280" as="sourcePoint" />
+            <mxPoint x="591.1" y="280.25000000000006" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="211thbQsoQ1P-G4-_ONW-12" value="رسالة تأكيد حجز السرير" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="435" y="258" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

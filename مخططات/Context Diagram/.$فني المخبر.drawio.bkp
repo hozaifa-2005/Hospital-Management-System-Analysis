@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/25.0.1 Chrome/128.0.6613.186 Electron/32.2.6 Safari/537.36" version="25.0.1">
   <diagram name="Page-1" id="JKNUVQAxmP9uTkI03yyg">
-    <mxGraphModel dx="467" dy="278" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="508" dy="304" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -12,21 +12,21 @@
         </mxCell>
         <mxCell id="XaIL9JHg4FneOxSuvQ2j-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.009;exitY=0.121;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="590" y="170.25" as="sourcePoint" />
-            <mxPoint x="390.9" y="170" as="targetPoint" />
+            <mxPoint x="589.1" y="170.25" as="sourcePoint" />
+            <mxPoint x="390" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XaIL9JHg4FneOxSuvQ2j-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.009;exitY=0.121;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="590" y="214.73" as="sourcePoint" />
-            <mxPoint x="391" y="214.73" as="targetPoint" />
+            <mxPoint x="589.5" y="220" as="sourcePoint" />
+            <mxPoint x="390.5" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="XaIL9JHg4FneOxSuvQ2j-14" value="تسجيل الدخول" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="450" y="150" width="80" height="30" as="geometry" />
+          <mxGeometry x="445" y="140" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XaIL9JHg4FneOxSuvQ2j-15" value="إرسال نتائج التحاليل" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="440" y="190" width="100" height="30" as="geometry" />
+          <mxGeometry x="435" y="190" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XaIL9JHg4FneOxSuvQ2j-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.997;exitY=0.521;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.008;entryY=0.522;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -37,13 +37,13 @@
         <mxCell id="XaIL9JHg4FneOxSuvQ2j-55" value="إرسال طلبات الفحوصات" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="430" y="308" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lD73gFFvVG1VL_-eIX1q-1" value="&amp;nbsp; عرض طلبات الفحص وتفاصيله" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="410" y="230" width="150" height="30" as="geometry" />
+        <mxCell id="lD73gFFvVG1VL_-eIX1q-1" value="جدولة مواعيد الفحص" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="430" y="240" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lD73gFFvVG1VL_-eIX1q-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.009;exitY=0.121;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
+        <mxCell id="lD73gFFvVG1VL_-eIX1q-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=-0.009;exitY=0.121;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="589" y="260" as="sourcePoint" />
-            <mxPoint x="390" y="260" as="targetPoint" />
+            <mxPoint x="589" y="270" as="sourcePoint" />
+            <mxPoint x="390" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
